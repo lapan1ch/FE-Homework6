@@ -1,0 +1,15 @@
+.thumbnail {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    cursor: pointer;
+    border: 1px solid #ddd;
+  }
+  
+  /* Стили для большой картинки */
+  .full-image {
+    max-width: 600px;
+    max-height: 600px;
+    margin: auto;
+    display: block;
+  }
